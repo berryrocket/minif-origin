@@ -17,3 +17,5 @@ This repository contains every file to make the minif origin rocket.
 - Tous les autres fichiers .step : fichiers sources mécaniques pour modifier la fusée selon vos préférences.
 
 Licence CC BY-NC-SA 4.0
+![cc-by
+-nc-sa](https://user-images.githubusercontent.com/1367183/214925257-8b6ebb08-f1ee-49e5-85f3-be77d70f8bf6.png)
