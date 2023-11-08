@@ -2,6 +2,8 @@
 
 This repository contains every file to make the minif origin rocket.
 
+![alt tag](https://github.com/berryrocket/minif-origin/blob/main/Vue%20d'ensemble.png)
+
 ## Folder organisation
 
 - Avionic : contains every things about the avionic/electronic of the rocket
@@ -16,6 +18,5 @@ This repository contains every file to make the minif origin rocket.
 - Fichiers 3D STL : tous les fichiers mécaniques au format STL pour une reproduction facile.
 - Tous les autres fichiers .step : fichiers sources mécaniques pour modifier la fusée selon vos préférences.
 
-Licence CC BY-NC-SA 4.0
-![cc-by
--nc-sa](https://user-images.githubusercontent.com/1367183/214925257-8b6ebb08-f1ee-49e5-85f3-be77d70f8bf6.png)
+# Licence CC BY-NC-SA 4.0
+![cc-by-nc-sa](https://user-images.githubusercontent.com/1367183/214925257-8b6ebb08-f1ee-49e5-85f3-be77d70f8bf6.png)
