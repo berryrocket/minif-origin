@@ -1,0 +1,1 @@
+L'ogive est à imprimer. Elle peut être modifée à partir du fichier .STEP en conservant le filetage

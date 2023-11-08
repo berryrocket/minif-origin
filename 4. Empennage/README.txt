@@ -1,0 +1,2 @@
+La virolle doit être imprimée en 3D sans modification
+L'empennage n'est pas imprimé en 3D mais découpé dans du PMMA 3mm à la découpe laser. Le fichier .STEP permet sa modification à partir d'un outil de CAO 3D, le .DXF permet la même chose en 2D avec Inkscape par ex.
