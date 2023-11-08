@@ -1,6 +1,6 @@
 [submodule "Avionic/BR Interface"]
-	path = 5.Avionic/BR Interface
+	path = 5. Avionic/BR Interface
 	url = https://github.com/berryrocket/br-interface.git
 [submodule "Avionic/BR Code"]
-	path = 5.Avionic/BR Code
+	path = 5. Avionic/BR Code
 	url = https://github.com/berryrocket/br-code.git
