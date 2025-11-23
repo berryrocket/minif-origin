@@ -1,8 +1,8 @@
-# BerryRocket Minif Origin
+# BerryRocket Mini-Origin
 
-This repository contains every file to make the minif origin rocket.
+This repository contains every file to build the Mini-Origin rocket.
 
-![alt tag](https://github.com/berryrocket/minif-origin/blob/main/Vue%20d'ensemble.png)
+![alt tag](./docs/overview.png)
 
 ## Folder organisation
 
